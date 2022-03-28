@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LitMath</string>
+    <string name="spiner_language">Demo Lenguaje</string>
+
+    <string name="title_signin">¡Bienvenido a Litmath!</string>
+    <string name="subtitle_signin">¡Inicie sesión para comenzar a aprender!.</string>
+    <string name="instructions_signin">Iniciar sesión</string>
+    <string name="edt_email_signin">jhon@doe.com</string>
+    <string name="edt_password_signin">******</string>
+    <string name="check_signin">Recuérdame</string>
+    <string name="help_signin">¿Necesitas ayuda?</string>
+    <string name="button_sigin">Iniciar sesión</string>
+    <string name="register_signin">¿No tienes una cuenta?</string>
+    <string name="register_link_sigin">Regístrese en su lugar</string>
+
+    <string name="dialog_lng_title">Selecciona un lenguaje</string>
+    <string name="dialog_option_en">Inglés</string>
+    <string name="dialog_option_es">Español</string>
+    <string name="dialog_option_pt">Portugués</string>
+
+    <string name="title_signup">¿Listo para unirte?</string>
+    <string name="subtitle_signup">Encantado de verte de nuevo, estamos listos.</string>
+    <string name="instructions_signup">Registrarme</string>
+    <string name="edt_full_name_signup">Nombre completo</string>
+    <string name="edt_email_signup">Correo electrónico</string>
+    <string name="edt_password_signup">Contraseña</string>
+    <string name="edt_repeat_password_signup">Repetir Contraseña</string>
+    <string name="edt_phone_signup">Teléfono</string>
+    <string name="dialog_client_signup">Tipo de Cliente</string>
+    <string name="dialog_client_title_signup">Mensaje</string>
+    <string name="dialog_client_instructions_signup">Selecciona un tipo Cliente</string>
+    <string name="dialog_client_neutral_signup">Cancelar</string>
+    <string name="dialog_client_admin_signup">Admin</string>
+    <string name="dialog_client_client_signup">Cliente</string>
+    <string name="btn_tycos_signup">Aceptar terminos y condiciones</string>
+    <string name="btn_signup">Registrarme!</string>
+    <string name="btn_signin_signup">Si ya tienes una cuenta, inicia sesión.</string>
+    <string name="dialog_create_user_title">Mensaje</string>
+    <string name="dialog_create_user_message">Usuario creado! para acceder es necesario validar su cuenta por correo electrónico, ingrese al link que le fue enviado.</string>
+    <string name="dialog_create_user_positive">Aceptar</string>
+
+    <string name="subtitle_home">Menú</string>
+    <string name="button_meet_home">Reunirse</string>
+
+    <string name="title_recovery">Recuperar contraseña</string>
+    <string name="subtitle_recovery">To recover your password you need to enter the email with which you registered.</string>
+    <string name="instructions_recovery">Utilice su correo electrónico registrado</string>
+    <string name="button_recovery">Recuperar contraseña</string>
+
+    <string name="title_meet">Reunirse</string>
+    <string name="subtitle_meet">Use the ID provided by your administrator or your client</string>
+    <string name="instructions_meet">Introduce el código de administrador o el ID de la reunión</string>
+    <string name="button_meet">Iniciar reunión</string>
+
+    <string name="title_profile">Pérfil</string>
+    <string name="instructions_profile">Actualizar Perfil</string>
+    <string name="btn_update_profile">Actualizar Perfil</string>
+
+    <string name="cheers_morning">Buenos días</string>
+    <string name="cheers_afternoon">Buenas tarde</string>
+    <string name="cheers_evening">Buenas noches</string>
+    <string name="cheers_night">Buenas noches</string>
+
+    <string name="btn_sign_out">Cerrar Sesión</string>
+</resources>
